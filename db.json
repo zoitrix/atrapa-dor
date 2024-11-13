@@ -64,15 +64,6 @@
 	},
 
 	{
-	"id": 8,
-	"hair": "brown",
-	"eyes": "brown",
-	"sex": "female",
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
 	"id": 9,
 	"hair": "brown",
 	"eyes": "hazel",
@@ -190,15 +181,6 @@
 	},
 
 	{
-	"id": 23,
-	"hair": "brown",
-	"eyes": "brown",
-	"sex": "female",
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
 	"id": 24,
 	"hair": "brown",
 	"eyes": "blue",
@@ -247,15 +229,6 @@
 	"id": 29,
 	"hair": "brown",
 	"eyes": "blue",
-	"sex": "female",
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
-	"id": 30,
-	"hair": "brown",
-	"eyes": "brown",
 	"sex": "female",
 	"owner": "https://www.fbi.gov/wanted/api",
 	"api": "https://api.fbi.gov/wanted/v1/list"
