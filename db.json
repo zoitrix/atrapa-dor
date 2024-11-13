@@ -217,15 +217,6 @@
 	},
 
 	{
-	"id": 28,
-	"hair": "brown",
-	"eyes": "brown",
-	"sex": "female",
-	"owner": "https://www.fbi.gov/wanted/api",
-	"api": "https://api.fbi.gov/wanted/v1/list"
-	},
-
-	{
 	"id": 29,
 	"hair": "brown",
 	"eyes": "blue",
